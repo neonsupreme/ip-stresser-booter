@@ -59,7 +59,7 @@ Say hello to **Python DDOS V2.0!** 🎉 Your ultimate **IP Stresser** and **IP B
 #### Clone the Repo:
 ```bash
 git clone <your-repo-url>
-cd python-ddos-v2.0
+cd ipstresser-ipbooter
 ```
 
 #### Install Dependencies:
@@ -71,7 +71,7 @@ pip install colorama requests
 
 #### Run It:
 ```bash
-python ddos_tool.py
+python3 ipstresser-ipbooter.py
 ```
 📜 Rename `ddos_tool.py` to your script’s filename!
 
@@ -83,13 +83,13 @@ python ddos_tool.py
 Run it, and the title switches to **"Python DDOS V2.0 By elitestresser.club"**. You'll see:
 
 ```plaintext
- ____  ____   ____  _____    ____  ____    ____    ____ 
-/    ||    \ |    ||     |  /    ||    \  /    |  /    |
-|  o  ||  o  )|  o  ||   | |  o  ||  o  )|  o  | |   _|
-|     ||     ||     ||  |  |     ||     ||     | |  |  |
-|  _  ||  O  ||  _  ||   ] |  _  ||  O  ||  _  | |  |  |
-|  |  ||     ||  |  ||  |   |  |  ||     ||  |  | |   _] |
-||||||||||   |||||||| |__|
+ _______  ___      ___   _______  _______ 
+|       ||   |    |   | |       ||       |
+|    ___||   |    |   | |_     _||    ___|
+|   |___ |   |    |   |   |   |  |   |___ 
+|    ___||   |___ |   |   |   |  |    ___|
+|   |___ |       ||   |   |   |  |   |___ 
+|_______||_______||___|   |___|  |_______|
 
 Python DDOS v2.0 - Made by elitestresser.club
 ```
